@@ -8,6 +8,7 @@ _Teknologi yang telah di install_:
 - express versi 5.1.0
 - prisma versi 6.14.0
 - prisma/client versi 6.14.0
+- swagger-ui-express versi 5.0.1
 
 ## Langkah Penggunaan
 
